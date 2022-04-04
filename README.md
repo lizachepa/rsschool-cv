@@ -1,2 +1,2 @@
 # rsschool_cv
-https://www.linkedin.com/in/lizachepa/
+https://github.com/lizachepa/rsschool-cv/tree/gh-pages
