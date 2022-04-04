@@ -1,0 +1,76 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+                                                       <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+@font-face {
+    font-family: "Lobster", cursive;
+}
+
+.first{
+    font-family:"Lobster";
+    letter-spacing: 1mm;
+    word-spacing: 3mm;
+    font-size: 15mm;
+    font-style: oblique;
+    border:5px yellow solid;
+    text-decoration: underline;
+    margin-left:50px;
+    margin-right:10px;
+    padding:50px;
+    background-color:rgb(77, 194, 77);
+    color:hsla(210,100%,33%);
+    opacity: 0.9;
+    text-shadow:2px 4px #FFAE00;
+    text-align: left;
+    background: linear-gradient(75deg, #FFFF00, #00FFFF);
+    transition: margin-left 8s;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0 0 10px rgb(152, 251, 152);
+    padding: 20px;
+}
+.second{
+    font-family:"Lobster";
+    letter-spacing: 3mm;
+    word-spacing: 5mm;
+    font-size: 10mm;
+    font-style: oblique;
+    border:3px red dotted;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-right:100px;
+    padding:50px;
+    background-color:rgb(252, 112, 112);
+    opacity: 0.9;
+    color:#660099;
+    text-align: right;
+    transition: all 3s ease-in-out;
+}
+.second:hover{
+    background-color: rgb(7,7,7);
+}
+.third{
+    font-family:"Lobster";
+    letter-spacing: 4mm;
+    word-spacing: 5mm;
+    font-size: 7mm;
+    font-style: oblique;
+    margin-left:25px;
+    margin-right:75px;
+    margin-top: 100px;
+    padding:50px;
+    background-color:hsl(325,88%,39%);
+    opacity: 0.9;
+    color:#FF9999;
+    text-align: center;
+    text-shadow:1px 1px 10px #FFAE00;
+    transition: margin-left 4s, color 1s;
+    border: 30px solid ;
+    padding: 20px;
+}
+.third:hover{margin-left: 50px;
+    color: green;}
+#secondd{
+    margin-top: 20px;
+    padding: 20px;
+    height: 400px;
+    background-color: blueviolet;
+    opacity: 0.9;
+}
